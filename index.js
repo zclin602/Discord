@@ -25,7 +25,7 @@ client.on('message', msg => {
     msg.reply('Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn')
   }
   if (msg.content == '!ihateyou') {
-    msg.reply(' ');
+    msg.reply('                ');
   }
 });
 
